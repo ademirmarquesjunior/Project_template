@@ -1,5 +1,3 @@
-<img src="http://vizlab.unisinos.br/img/logo_white.png" width="500" alt="Neural network learning process">
-
 # Project_name
 
 Project template for @vizlab-uni projects with README and LICENCE guidelines. This template uses Markdown formating (see https://www.markdownguide.org/basic-syntax/) using structure based on recommended Github guidelines (https://guides.github.com/features/wikis/) and other guidelines like the University of Aveiro guideline (https://guides.github.com/features/wikis/).
@@ -10,7 +8,7 @@ To insert figures use html style references like the one below:
 <img src="http://vizlab.unisinos.br/img/montanha-capa.png" width="500" alt="Neural network learning process">
 
 ## Published articles
-This section is optional, as not every code will be related from start to an article, but this section will need to be added later indicating works from Vizlab that used the code if published. Use the following as example when referencing an article:
+This section is optional, but this section will need to be added later indicating works from Vizlab that used the code if published. Use the following as example when referencing an article:
 
 **Name of the article in medium length trying to fill one line in bold**  
 [AuthorFirstName AuthorLastName<sup>1</sup>](Profile link), [AuthorFirstName AuthorLastName<sup>2</sup>](Profile link), [AuthorFirstName AuthorLastName<sup>1</sup>](Profile link)  
