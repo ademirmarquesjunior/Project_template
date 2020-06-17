@@ -25,7 +25,7 @@ This section is optional, but this section will need to be added later indicatin
 
 This section must indicate how to install the code/software and the minimum requirements for running/execute the software (system OS, language environments, installed libraries, etc).
 
-### Requirements
+The list below is an example of pre-installed libraries needed to install and run the code.
 
 ```
 Python 3.6
@@ -33,8 +33,7 @@ Numpy
 Pandas
 ```
 
-
-Use ``` between codes or use four spaces or tab in each line to highlight code and bash commands.
+Use ``` between codes or use four spaces or tab in each line to highlight code and bash commands when describing how to install by command lines.
 
 ```
 pip install numpy
@@ -59,7 +58,7 @@ Copyright/Copyleft applicable to the projects. Please refer to [How open source 
 
 Example:
 ```
-GNU General Public License, version 3 (GPLv3)
+MIT Licence (https://mit-license.org/)
 ```
 
 # How to cite
